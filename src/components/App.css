@@ -1,0 +1,4 @@
+.App .Exercises{
+    display: flex;
+    flex-wrap: wrap;
+}
